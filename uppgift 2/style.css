@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.hr {
+    color: olive;
+}
+body {
+    text-align: center;
+    background-color: olive;
+    color: olive;
+
+}
+#submit:hover {
+    background-color: olive;
+    color: white;
+}
+h2 {
+    margin: 15px;   
+}
+#container {
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    border: 1px solid black;
+    height: 60%;
+    width: 40%;
+    background-color: #101820;
+}
+#submit {
+    margin-top: 5px;
+    display: block;
+    width: 100px;
+    padding: 8px;
+    margin-left: 42%;
+    margin-bottom: 15px;
+}
+#svar {
+    width: 45px;
+   text-align: center;
+}
+
+input {
+    text-align: center;
+    width: 45px;
+}
+
+
